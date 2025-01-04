@@ -1,0 +1,4 @@
+enum TradeStatus {
+  OPEN,
+  CLOSED,
+}
