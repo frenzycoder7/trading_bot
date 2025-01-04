@@ -1,16 +1,51 @@
-# trading_bot
 
-A new Flutter project.
+## 📸 App Demo
 
-## Getting Started
+Watch how easy it is to manage your crypto trading:
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/app_demo.gif" alt="App Demo" width="600"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- RESTful APIs
+- Crypto Trading APIs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Platform Support
+
+- Android
+- iOS
+
+## 💡 Contributing
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YourUsername">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YourTwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YourInstagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ by [Your Name]
+</p>
